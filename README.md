@@ -2,7 +2,7 @@
 
 This project provide a minimal `.vimrc` configuration to get started with vim without plugin.
 
-!(basic.vim screenshot)[https://github.com/hqro/basic.vim/blob/master/screenshot.png?raw=true]
+![basic.vim screenshot](https://github.com/hqro/basic.vim/blob/master/screenshot.png)
 
 ### How to install ?
 
