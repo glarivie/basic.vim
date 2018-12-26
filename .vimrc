@@ -1,11 +1,6 @@
 set mouse=a " Activate mouse
 set nocompatible " Remove Vi compatibility
 
-" Autoclose on insert ( [ {
-inoremap ( ()<left>
-inoremap [ []<left>
-inoremap { {}<left>
-
 " Enable filetype plugins
 filetype plugin on
 filetype indent on
